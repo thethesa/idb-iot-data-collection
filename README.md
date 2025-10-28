@@ -5,7 +5,6 @@ Dieses Projekt erfasst Umgebungsdaten wie Temperatur, Luftfeuchtigkeit, Distanz 
 
 Feather nRF52840 (Sensoren + LED, code.py)
    ➜  Raspberry Pi (mqtt_idb.py)
-   ➜  MQTT Broker (test.mosquitto.org)
+   ➜  MQTT Broker
    ➜  ThingSpeak Cloud (HTTP Upload)
-   ➜  Dashboard (Visualisierung)
-
+   ➜  Dashboard(ThingSpeak(Visualisierung))
